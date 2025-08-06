@@ -1,0 +1,21 @@
+{
+    "jmeter_version": "5.6.3",
+    "tasks": [
+      {
+        "task_name": "sample-task-1",
+        "script_name": "sample-script-1.jmx",
+        "users_file": "sample-users-1.csv",
+        "data_files": {
+            "sample-data-1" : "sample-data-1.csv"
+          }
+      },
+      {
+        "task_name": "sample-task-2",
+        "script_name": "sample-script-2.jmx",
+        "users_file": "sample-users-2.csv",
+        "data_files": {
+            "sample-data-1" : "sample-data-2.csv"
+          }
+      }
+    ]
+  }
