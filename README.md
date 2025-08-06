@@ -117,7 +117,7 @@ Example JMeter variable configuration:
 
 ## ⚠️ Important Notes
 
-1. **Folder Structure**: Do NOT modify the folder structure. FPSX depends on this specific layout.
+1. **Folder Structure**: Do NOT modify the folder structure. Scale Test functionality depends on this specific layout.
 
 2. **File Paths**:
     - User files will be sent to Jmeter script as `-Jusername_file=../user-files/sample-users-1.csv`
