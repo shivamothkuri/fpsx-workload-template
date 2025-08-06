@@ -14,7 +14,7 @@
         "script_name": "sample-script-2.jmx",
         "users_file": "sample-users-2.csv",
         "data_files": {
-            "sample-data-1" : "sample-data-2.csv"
+            "sample-data-2" : "sample-data-2.csv"
           }
       }
     ]
